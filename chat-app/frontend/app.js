@@ -1,5 +1,5 @@
 
-const BACKEND_URL = "wss://YOUR-BACKEND-HOST/ws";
+const BACKEND_URL = "wss://ld1vfmavvqeeptzvgzx9ubyf.trainees.hosting.cyf.academy/ws";
 
 const connectionEl = document.querySelector("#connection");
 const messagesEl = document.querySelector("#messages");
